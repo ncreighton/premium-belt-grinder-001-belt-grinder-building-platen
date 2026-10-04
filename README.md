@@ -1,0 +1,2 @@
+# premium-belt-grinder-001-belt-grinder-building-platen
+Tired of losing track of your belt grinder build specs across scattered notes and spreadsheets? The Belt Grinder Building &amp; Platen Design Craft Lab turns your workshop chaos into a streamlined design studio.  This Notion template consolidates every aspect of your grinder build—from platen geometry and materials to testing logs and BOMs—into one dyn
